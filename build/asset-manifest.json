@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43e19744.css",
+    "main.js": "/static/js/main.0e34b994.js",
+    "static/media/404-error-page-3959260-3299959 (1).webp": "/static/media/404-error-page-3959260-3299959 (1).ceb5581f334c5f20c290.webp",
+    "static/media/how-to-study-like-a-harvard-student.jpg": "/static/media/how-to-study-like-a-harvard-student.54c95d6a7b5a320fdc95.jpg",
+    "static/media/save.jpg": "/static/media/save.f4990c07e7d436a25785.jpg",
+    "static/media/woman-on-computer.jpg": "/static/media/woman-on-computer.230f833b1f8ca9d4b175.jpg",
+    "index.html": "/index.html",
+    "main.43e19744.css.map": "/static/css/main.43e19744.css.map",
+    "main.0e34b994.js.map": "/static/js/main.0e34b994.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43e19744.css",
+    "static/js/main.0e34b994.js"
+  ]
+}
